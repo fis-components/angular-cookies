@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/angular/angular.js.git",
+    "version": "v1.4.7",
+    "name": "angular-cookies",
+    "main": "angular-cookies.js"
+}
